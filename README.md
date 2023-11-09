@@ -2,6 +2,8 @@
 
 This project is an online course management system developed using Servlet and JSP with Bootstrap for front-end styling and a MySQL database for backend storage.
 
+---
+
 ### Usage
 
 The Online Course Management System has three types of users: students, teachers, and admins. Each type of user has different permissions.
